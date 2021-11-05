@@ -11,6 +11,7 @@ namespace Spaceshooter
     public class GameWorld : Game
     {
         //Dette er til github test, hvis denne er der, så virker det!
+        //hej
         private GraphicsDeviceManager graphics;
         private SpriteBatch spriteBatch;
         private static Vector2 screenSize;
